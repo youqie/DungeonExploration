@@ -1,8 +1,11 @@
 # Dungeon Exploration
 ## Info.
 
-** IDE: ** QT
+**IDE:** QT
 
-** Language: ** CPP
+**Language:** CPP
 
 ### 大一小学期项目 致敬 MatchHack
+
+---
+www.buptstu.cn
